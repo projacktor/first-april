@@ -1,3 +1,5 @@
+docker-compose.yaml
+nginx-server.conf
 # Logs
 logs
 *.log
